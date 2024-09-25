@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/631395287.svg)](https://zenodo.org/doi/10.5281/zenodo.13839049)
 Supplementary information / reproducible research files for the manuscript 
 Title: "Non-Homogeneous multi-state Markov models: A simulation scheme for evaluating cancer screening strategies"
 
