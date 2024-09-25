@@ -3,7 +3,7 @@ Title: "Non-Homogeneous multi-state Markov models: A simulation scheme for evalu
 
 Authors: Mai Ngoc Bui; Ardo Van Den Hout; Rikesh Bhatt & Nora Pashayan
 Code was written by Mai Ngoc Bui
-In case of questions or comments please contact mai.bui@ucl.ac.uk
+In case of questions or comments please contact mai.bui@buv.edu.vn
 
 The code in the R file "PLCO_data_estimation_Linux.R" was written/evaluated in R with the following software versions: 
 
